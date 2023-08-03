@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -la
+#!/bin/baa
+./list_files.sh
