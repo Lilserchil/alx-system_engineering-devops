@@ -1,2 +1,4 @@
-#!/bin/baa
-./list_files.sh
+#!/bin/bash
+ls -la
+ls -la ..
+ls -la /boot
